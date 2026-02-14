@@ -1,0 +1,6 @@
+
+[
+  { "caseId": 101, "stateCode": "CA", "riskScore": 8.4 },
+  { "caseId": 102, "stateCode": "FL", "riskScore": 9.1 },
+  { "caseId": 103, "stateCode": "TX", "riskScore": 7.2 }
+]
